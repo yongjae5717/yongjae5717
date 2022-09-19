@@ -18,11 +18,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongjae5717)](https://github.com/yongjae5717/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydwo5717)](https://solved.ac/dydwo5717)
-
-<!--
-|Github Stats | Most used language |
-|-|-|
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yongjae5717)](https://github.com/yongjae5717/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongjae5717)
--->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydwo5717)](https://solved.ac/dydwo5717)
