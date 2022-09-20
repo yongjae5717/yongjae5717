@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongjae5717)](https://github.com/yongjae5717/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydwo5717)](https://solved.ac/dydwo5717)
+
+[![Yongjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjae5717)](https://github.com/yongjae5717/github-readme-stats)
